@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Meituan Rome & webpack
 
 
-### Programming Languages
+### Programming
 ![Languages](https://skillicons.dev/icons?i=js,nodejs,ts,react,vue)
